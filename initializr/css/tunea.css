@@ -1,0 +1,24 @@
+h1{
+	text-align: center;
+}
+
+.head{
+    height: 1em;
+    width: 1em;
+    margin: 1em 0;
+    padding: 0;
+ }
+
+ .article1{
+ 	display: inline-block;
+ }
+ .article2{
+ 	display: block;
+ }
+.article3{
+	display: block;
+}
+ header{
+ 	color:blue;
+ 	font-size: 2em;
+ }
